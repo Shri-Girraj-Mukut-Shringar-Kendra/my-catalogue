@@ -156,7 +156,7 @@
 </div>
 
 <script>
-  const DATA_URL = './images.json';
+  const DATA_URL = './images.json?t=' + Date.now();
   let allImages = [], currentSort = 'newest';
 
   const fmt = iso => { try { return new Date(iso).toLocaleDateString(undefined,{year:'numeric',month:'short',day:'numeric'}); } catch { return ''; }};
