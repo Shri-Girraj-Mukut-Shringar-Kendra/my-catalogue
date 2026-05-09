@@ -241,7 +241,20 @@
   },
   {
     "category": "Ganesh Vastra",
-    "images": []
+    "images": [
+      {
+        "id": "1i9vrAta2XqiHq-mntFkDy6ek6pSKP2hQ",
+        "name": "IMG-20250820-WA0062(1).jpg",
+        "url": "https://drive.google.com/thumbnail?id=1i9vrAta2XqiHq-mntFkDy6ek6pSKP2hQ&sz=w800",
+        "date": "2026-05-09T07:49:41.058Z"
+      },
+      {
+        "id": "1PAPnT7I5RmHsKde2t81psOydeFaKVqFE",
+        "name": "IMG-20260128-WA0007.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1PAPnT7I5RmHsKde2t81psOydeFaKVqFE&sz=w800",
+        "date": "2026-05-09T07:49:40.884Z"
+      }
+    ]
   },
   {
     "category": "Gadda set",
