@@ -217,7 +217,56 @@
   },
   {
     "category": "Mang Tika",
-    "images": []
+    "images": [
+      {
+        "id": "1ueykijHblU-7g8QRJW8XOn43BxT-vkE5",
+        "name": "IMG-20260503-WA0051.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1ueykijHblU-7g8QRJW8XOn43BxT-vkE5&sz=w800",
+        "date": "2026-05-09T08:32:43.804Z"
+      },
+      {
+        "id": "1gZH3nKFOyFPO_AuWho9-34QNL2SbAPHD",
+        "name": "IMG-20260503-WA0053.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1gZH3nKFOyFPO_AuWho9-34QNL2SbAPHD&sz=w800",
+        "date": "2026-05-09T08:32:43.656Z"
+      },
+      {
+        "id": "1PTgHutfzdS_mZyZMhnH-XDTjbPJPRZ7Y",
+        "name": "IMG-20260503-WA0052.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1PTgHutfzdS_mZyZMhnH-XDTjbPJPRZ7Y&sz=w800",
+        "date": "2026-05-09T08:32:43.461Z"
+      },
+      {
+        "id": "1hsVdbXswAGvvLqQGfg2QOjC4K60SpYXl",
+        "name": "IMG-20250727-WA0024.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1hsVdbXswAGvvLqQGfg2QOjC4K60SpYXl&sz=w800",
+        "date": "2026-05-09T08:32:43.330Z"
+      },
+      {
+        "id": "1pf1DjwpyH7q_M7xXrbY10mu8sidzPQ33",
+        "name": "IMG-20251008-WA0045.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1pf1DjwpyH7q_M7xXrbY10mu8sidzPQ33&sz=w800",
+        "date": "2026-05-09T08:32:43.211Z"
+      },
+      {
+        "id": "1wVpvJ8Q_vqD8KQLTdNqhC9M1z1L-N05u",
+        "name": "IMG-20251008-WA0047.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1wVpvJ8Q_vqD8KQLTdNqhC9M1z1L-N05u&sz=w800",
+        "date": "2026-05-09T08:32:43.077Z"
+      },
+      {
+        "id": "1fLtkGCmpuZV0_0HmMI28XrHP4v6cycv8",
+        "name": "IMG-20260502-WA0031.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1fLtkGCmpuZV0_0HmMI28XrHP4v6cycv8&sz=w800",
+        "date": "2026-05-09T08:32:42.750Z"
+      },
+      {
+        "id": "1dkahV3O7FCrHdnXGHo6YzlLDpFHb0rZe",
+        "name": "IMG-20260503-WA0008.jpg",
+        "url": "https://drive.google.com/thumbnail?id=1dkahV3O7FCrHdnXGHo6YzlLDpFHb0rZe&sz=w800",
+        "date": "2026-05-09T08:32:42.611Z"
+      }
+    ]
   },
   {
     "category": "Mala",
