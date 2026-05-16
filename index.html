@@ -218,20 +218,21 @@
 
     grid.innerHTML = images.map((img, i) => `
       <div class="card" style="animation-delay:${Math.min(i*0.05,0.4)}s"
-        onclick="openLb('${img.url.replace(/'/g,"\\'")}','${img.name.replace(/'/g,"\\'")}','${img.date}')">
+        onclick="openLb('${img.url.replace(/'/g,"\\'")}','${img.name.replace(/'/g,"\\'")}','${img.date}','${img.designNo||''}')">
         <div style="overflow:hidden">
           <img class="card-img" src="${img.url}" alt="${cleanName(img.name)}" loading="lazy" onerror="this.src='${noImg}'"/>
         </div>
         <div class="card-body">
+          <div style="font-size:11px;font-weight:600;color:var(--accent);letter-spacing:0.05em;margin-bottom:4px;">${img.designNo || ''}</div>
           <div class="card-name">${cleanName(img.name)}</div>
           <div class="card-meta">${fmt(img.date)}</div>
         </div>
       </div>`).join('');
   }
 
-  function openLb(url, name, date) {
+  function openLb(url, name, date, designNo) {
     document.getElementById('lb-img').src = url;
-    document.getElementById('lb-name').textContent = cleanName(name);
+    document.getElementById('lb-name').textContent = (designNo ? designNo + ' — ' : '') + cleanName(name);
     document.getElementById('lb-date').textContent = fmt(date);
     document.getElementById('lightbox').classList.add('open');
     document.body.style.overflow = 'hidden';
