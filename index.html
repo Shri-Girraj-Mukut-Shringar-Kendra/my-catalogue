@@ -199,7 +199,10 @@
 	      if (cat) images = [...cat.images];
 	    }
 	
-	    images = images.filter(img => img.name.toLowerCase().includes(q));
+	    images = images.filter(img =>
+  img.name.toLowerCase().includes(q) ||
+  (img.designNo && img.designNo.toLowerCase().includes(q))
+   );
      images.sort(sortFns[currentSort]);
      renderGrid(images);
   }
