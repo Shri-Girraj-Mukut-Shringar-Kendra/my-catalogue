@@ -173,6 +173,7 @@
 
   function setCategory(cat) {
     currentCategory = cat;
+    document.getElementById('search').value = '';  // ← add this line
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.textContent === cat));
     applyFilters();
   }
