@@ -185,20 +185,23 @@
     applyFilters();
   }
 
-  function applyFilters() {
-    const q = document.getElementById('search').value.toLowerCase();
-    let images = [];
-
-    if (currentCategory === 'All') {
-      allData.forEach(cat => images.push(...cat.images));
-    } else {
-      const cat = allData.find(c => c.category === currentCategory);
-      if (cat) images = [...cat.images];
-    }
-
-    images = images.filter(img => img.name.toLowerCase().includes(q));
-    images.sort(sortFns[currentSort]);
-    renderGrid(images);
+  	function applyFilters() {
+	    const q = document.getElementById('search').value.toLowerCase();
+	    let images = [];
+	
+	    if (q) {
+	      // If searching, always look across ALL categories
+	      allData.forEach(cat => images.push(...cat.images));
+	    } else if (currentCategory === 'All') {
+	      allData.forEach(cat => images.push(...cat.images));
+	    } else {
+	      const cat = allData.find(c => c.category === currentCategory);
+	      if (cat) images = [...cat.images];
+	    }
+	
+	    images = images.filter(img => img.name.toLowerCase().includes(q));
+     images.sort(sortFns[currentSort]);
+     renderGrid(images);
   }
 
   function renderGrid(images) {
