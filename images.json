@@ -6425,380 +6425,394 @@
     "category": "Bansi",
     "images": [
       {
+        "id": "1u_XlwGGwptMETp62iTMbhdFwmhtO25fE",
+        "designNo": "DN-977",
+        "name": "Bansi_1",
+        "url": "https://drive.google.com/thumbnail?id=1u_XlwGGwptMETp62iTMbhdFwmhtO25fE&sz=w800",
+        "date": "2026-05-20T10:26:39.060Z"
+      },
+      {
+        "id": "1K7A3BD28e6payGwM6lqWhOvS7b3h8SL_",
+        "designNo": "DN-978",
+        "name": "Bansi_2",
+        "url": "https://drive.google.com/thumbnail?id=1K7A3BD28e6payGwM6lqWhOvS7b3h8SL_&sz=w800",
+        "date": "2026-05-20T10:26:38.880Z"
+      },
+      {
         "id": "1MuFH9eAW0saGlOOeglVSlRp7hBfD3Fdd",
         "designNo": "DN-895",
-        "name": "Bansi_1",
+        "name": "Bansi_3",
         "url": "https://drive.google.com/thumbnail?id=1MuFH9eAW0saGlOOeglVSlRp7hBfD3Fdd&sz=w800",
         "date": "2026-05-09T10:49:32.448Z"
       },
       {
         "id": "1Pw3C2zpbw4u6RAroQ8tGMCpN-dgZWruw",
         "designNo": "DN-896",
-        "name": "Bansi_2",
+        "name": "Bansi_4",
         "url": "https://drive.google.com/thumbnail?id=1Pw3C2zpbw4u6RAroQ8tGMCpN-dgZWruw&sz=w800",
         "date": "2026-05-09T10:49:32.751Z"
       },
       {
         "id": "1ikAw1D3uJnyGnGYNzbaJn_9LazHIt2m-",
         "designNo": "DN-897",
-        "name": "Bansi_3",
+        "name": "Bansi_5",
         "url": "https://drive.google.com/thumbnail?id=1ikAw1D3uJnyGnGYNzbaJn_9LazHIt2m-&sz=w800",
         "date": "2026-05-09T10:49:32.080Z"
       },
       {
         "id": "1WEL7Tario8Xjn_pMaqO-lnUITrvRSz94",
         "designNo": "DN-898",
-        "name": "Bansi_4",
+        "name": "Bansi_6",
         "url": "https://drive.google.com/thumbnail?id=1WEL7Tario8Xjn_pMaqO-lnUITrvRSz94&sz=w800",
         "date": "2026-05-08T19:06:25.104Z"
       },
       {
         "id": "1k5nmooyNaKw4vhTj3g7jZ5qJEhfEMr-r",
         "designNo": "DN-899",
-        "name": "Bansi_5",
+        "name": "Bansi_7",
         "url": "https://drive.google.com/thumbnail?id=1k5nmooyNaKw4vhTj3g7jZ5qJEhfEMr-r&sz=w800",
         "date": "2026-05-08T19:06:25.039Z"
       },
       {
         "id": "1ghw32Q09riu2OvRKI8NPWKE909Ef5ZqN",
         "designNo": "DN-900",
-        "name": "Bansi_6",
+        "name": "Bansi_8",
         "url": "https://drive.google.com/thumbnail?id=1ghw32Q09riu2OvRKI8NPWKE909Ef5ZqN&sz=w800",
         "date": "2026-05-08T19:06:24.955Z"
       },
       {
         "id": "1OH_UBY4rlFp2qokOLqpWxwsKfyM2RdfL",
         "designNo": "DN-901",
-        "name": "Bansi_7",
+        "name": "Bansi_9",
         "url": "https://drive.google.com/thumbnail?id=1OH_UBY4rlFp2qokOLqpWxwsKfyM2RdfL&sz=w800",
         "date": "2026-05-08T19:06:24.877Z"
       },
       {
         "id": "1OYSk2PhF_skO2pbhIYIdpGjXwnk7fMM7",
         "designNo": "DN-902",
-        "name": "Bansi_8",
+        "name": "Bansi_10",
         "url": "https://drive.google.com/thumbnail?id=1OYSk2PhF_skO2pbhIYIdpGjXwnk7fMM7&sz=w800",
         "date": "2026-05-08T19:06:24.785Z"
       },
       {
         "id": "1aygTHvV2IZbzz5dltpA5OMgpAzwNuVwa",
         "designNo": "DN-903",
-        "name": "Bansi_9",
+        "name": "Bansi_11",
         "url": "https://drive.google.com/thumbnail?id=1aygTHvV2IZbzz5dltpA5OMgpAzwNuVwa&sz=w800",
         "date": "2026-05-08T19:06:24.683Z"
       },
       {
         "id": "1cxRN82I0QhhDloQuUKN6r3iFzXo6PucO",
         "designNo": "DN-904",
-        "name": "Bansi_10",
+        "name": "Bansi_12",
         "url": "https://drive.google.com/thumbnail?id=1cxRN82I0QhhDloQuUKN6r3iFzXo6PucO&sz=w800",
         "date": "2026-05-08T19:06:24.545Z"
       },
       {
         "id": "1xWJ8jiMdgTnxpavGZ5fU0wrfmB1WFu_R",
         "designNo": "DN-905",
-        "name": "Bansi_11",
+        "name": "Bansi_13",
         "url": "https://drive.google.com/thumbnail?id=1xWJ8jiMdgTnxpavGZ5fU0wrfmB1WFu_R&sz=w800",
         "date": "2026-05-08T19:06:24.477Z"
       },
       {
         "id": "1cJQlzqStewXYW0nZnsfkFXXm7D6Q40QA",
         "designNo": "DN-906",
-        "name": "Bansi_12",
+        "name": "Bansi_14",
         "url": "https://drive.google.com/thumbnail?id=1cJQlzqStewXYW0nZnsfkFXXm7D6Q40QA&sz=w800",
         "date": "2026-05-08T19:06:24.400Z"
       },
       {
         "id": "19YfNYnFieF3_PYNzagttkDvyzf-FwBHI",
         "designNo": "DN-907",
-        "name": "Bansi_13",
+        "name": "Bansi_15",
         "url": "https://drive.google.com/thumbnail?id=19YfNYnFieF3_PYNzagttkDvyzf-FwBHI&sz=w800",
         "date": "2026-05-08T19:06:24.249Z"
       },
       {
         "id": "1JUYqny9gR-EV5bhEeMHSmXuKyvXCPKMb",
         "designNo": "DN-908",
-        "name": "Bansi_14",
+        "name": "Bansi_16",
         "url": "https://drive.google.com/thumbnail?id=1JUYqny9gR-EV5bhEeMHSmXuKyvXCPKMb&sz=w800",
         "date": "2026-05-08T19:06:23.953Z"
       },
       {
         "id": "1iveZvalvLw6NwP6oLGFP61YxRfFetWp3",
         "designNo": "DN-909",
-        "name": "Bansi_15",
+        "name": "Bansi_17",
         "url": "https://drive.google.com/thumbnail?id=1iveZvalvLw6NwP6oLGFP61YxRfFetWp3&sz=w800",
         "date": "2026-05-08T19:06:23.666Z"
       },
       {
         "id": "11kPExVb3AaL5fecpREoO0ujiQ4EXD0nD",
         "designNo": "DN-910",
-        "name": "Bansi_16",
+        "name": "Bansi_18",
         "url": "https://drive.google.com/thumbnail?id=11kPExVb3AaL5fecpREoO0ujiQ4EXD0nD&sz=w800",
         "date": "2026-05-08T19:06:22.853Z"
       },
       {
         "id": "14_lHsK5SoplWsnd0y_kGUY4NXhVUS7Py",
         "designNo": "DN-911",
-        "name": "Bansi_17",
+        "name": "Bansi_19",
         "url": "https://drive.google.com/thumbnail?id=14_lHsK5SoplWsnd0y_kGUY4NXhVUS7Py&sz=w800",
         "date": "2026-05-08T19:06:20.476Z"
       },
       {
         "id": "13ZRXK1cOU--FDzONS9Y5jdImCvX8H7PK",
         "designNo": "DN-912",
-        "name": "Bansi_18",
+        "name": "Bansi_20",
         "url": "https://drive.google.com/thumbnail?id=13ZRXK1cOU--FDzONS9Y5jdImCvX8H7PK&sz=w800",
         "date": "2026-05-08T19:06:20.310Z"
       },
       {
         "id": "1mBZXftvtD54WPB9J4oKzkqWy_5ApxH_e",
         "designNo": "DN-913",
-        "name": "Bansi_19",
+        "name": "Bansi_21",
         "url": "https://drive.google.com/thumbnail?id=1mBZXftvtD54WPB9J4oKzkqWy_5ApxH_e&sz=w800",
         "date": "2026-05-08T19:06:20.250Z"
       },
       {
         "id": "1f84ktYFFZVLO2Ot1dhruwuwy5l0PULbW",
         "designNo": "DN-914",
-        "name": "Bansi_20",
+        "name": "Bansi_22",
         "url": "https://drive.google.com/thumbnail?id=1f84ktYFFZVLO2Ot1dhruwuwy5l0PULbW&sz=w800",
         "date": "2026-05-08T19:06:20.192Z"
       },
       {
         "id": "16l7bVmtNZujc3Eridz9fiU5JL1Gbu7hp",
         "designNo": "DN-915",
-        "name": "Bansi_21",
+        "name": "Bansi_23",
         "url": "https://drive.google.com/thumbnail?id=16l7bVmtNZujc3Eridz9fiU5JL1Gbu7hp&sz=w800",
         "date": "2026-05-08T19:06:20.132Z"
       },
       {
         "id": "1dYNEF_yl-xDsS-wXPcYWHnHgBJ5Q0Jc1",
         "designNo": "DN-916",
-        "name": "Bansi_22",
+        "name": "Bansi_24",
         "url": "https://drive.google.com/thumbnail?id=1dYNEF_yl-xDsS-wXPcYWHnHgBJ5Q0Jc1&sz=w800",
         "date": "2026-05-08T19:06:20.054Z"
       },
       {
         "id": "1KIq_sbaeWWNq7sLmoqKVwKj3Hosgd3u0",
         "designNo": "DN-917",
-        "name": "Bansi_23",
+        "name": "Bansi_25",
         "url": "https://drive.google.com/thumbnail?id=1KIq_sbaeWWNq7sLmoqKVwKj3Hosgd3u0&sz=w800",
         "date": "2026-05-08T19:06:19.984Z"
       },
       {
         "id": "1UxscdoT92SPn7XZwsLUCNWwYOclp8zqV",
         "designNo": "DN-918",
-        "name": "Bansi_24",
+        "name": "Bansi_26",
         "url": "https://drive.google.com/thumbnail?id=1UxscdoT92SPn7XZwsLUCNWwYOclp8zqV&sz=w800",
         "date": "2026-05-08T19:06:19.889Z"
       },
       {
         "id": "1WMkxpqpizc-QMGkxIdjNxhUg6IbkokaJ",
         "designNo": "DN-919",
-        "name": "Bansi_25",
+        "name": "Bansi_27",
         "url": "https://drive.google.com/thumbnail?id=1WMkxpqpizc-QMGkxIdjNxhUg6IbkokaJ&sz=w800",
         "date": "2026-05-08T19:06:19.803Z"
       },
       {
         "id": "1WyrbEfX_UjFxTHJC3e8_qXCQmdveItSx",
         "designNo": "DN-920",
-        "name": "Bansi_26",
+        "name": "Bansi_28",
         "url": "https://drive.google.com/thumbnail?id=1WyrbEfX_UjFxTHJC3e8_qXCQmdveItSx&sz=w800",
         "date": "2026-05-08T19:06:19.731Z"
       },
       {
         "id": "1VpKLsvlxV4zZ6DY_qYC6Xk4qm4azmiae",
         "designNo": "DN-921",
-        "name": "Bansi_27",
+        "name": "Bansi_29",
         "url": "https://drive.google.com/thumbnail?id=1VpKLsvlxV4zZ6DY_qYC6Xk4qm4azmiae&sz=w800",
         "date": "2026-05-08T19:06:19.647Z"
       },
       {
         "id": "1KSWSYsH650RSGePbXTG7Qz7hYd-9T79B",
         "designNo": "DN-922",
-        "name": "Bansi_28",
+        "name": "Bansi_30",
         "url": "https://drive.google.com/thumbnail?id=1KSWSYsH650RSGePbXTG7Qz7hYd-9T79B&sz=w800",
         "date": "2026-05-08T19:06:19.529Z"
       },
       {
         "id": "1WiOgRg1NgCSZp_4f6Xck2tlZak-6Mpba",
         "designNo": "DN-923",
-        "name": "Bansi_29",
+        "name": "Bansi_31",
         "url": "https://drive.google.com/thumbnail?id=1WiOgRg1NgCSZp_4f6Xck2tlZak-6Mpba&sz=w800",
         "date": "2026-05-08T19:06:19.255Z"
       },
       {
         "id": "1iYRKZjMHiQCBfZHdh6cZeIUJcolkyiXV",
         "designNo": "DN-924",
-        "name": "Bansi_30",
+        "name": "Bansi_32",
         "url": "https://drive.google.com/thumbnail?id=1iYRKZjMHiQCBfZHdh6cZeIUJcolkyiXV&sz=w800",
         "date": "2026-05-08T19:06:19.155Z"
       },
       {
         "id": "1lKW_732rGAbPFVK58rbygPTlAvVv9FoX",
         "designNo": "DN-925",
-        "name": "Bansi_31",
+        "name": "Bansi_33",
         "url": "https://drive.google.com/thumbnail?id=1lKW_732rGAbPFVK58rbygPTlAvVv9FoX&sz=w800",
         "date": "2026-05-08T19:06:19.098Z"
       },
       {
         "id": "1-SC6CbMgIgSYVi-UtAfIPREKKe3eJ9uq",
         "designNo": "DN-926",
-        "name": "Bansi_32",
+        "name": "Bansi_34",
         "url": "https://drive.google.com/thumbnail?id=1-SC6CbMgIgSYVi-UtAfIPREKKe3eJ9uq&sz=w800",
         "date": "2026-05-08T19:06:19.007Z"
       },
       {
         "id": "1uhDeGOj-yYV6TXaQ1ca5KxXzC6S1GyFP",
         "designNo": "DN-927",
-        "name": "Bansi_33",
+        "name": "Bansi_35",
         "url": "https://drive.google.com/thumbnail?id=1uhDeGOj-yYV6TXaQ1ca5KxXzC6S1GyFP&sz=w800",
         "date": "2026-05-08T19:06:18.921Z"
       },
       {
         "id": "1NqNFZqUxDUPdve-WkJgQTQaRO26el7R3",
         "designNo": "DN-928",
-        "name": "Bansi_34",
+        "name": "Bansi_36",
         "url": "https://drive.google.com/thumbnail?id=1NqNFZqUxDUPdve-WkJgQTQaRO26el7R3&sz=w800",
         "date": "2026-05-08T19:06:18.849Z"
       },
       {
         "id": "1OapBTpoAcC_r9mNgLagKOudOsKvN8c2b",
         "designNo": "DN-929",
-        "name": "Bansi_35",
+        "name": "Bansi_37",
         "url": "https://drive.google.com/thumbnail?id=1OapBTpoAcC_r9mNgLagKOudOsKvN8c2b&sz=w800",
         "date": "2026-05-08T19:06:18.772Z"
       },
       {
         "id": "1tkRUsqogqWfxXIF8ahBSbDl7tSTVGDIn",
         "designNo": "DN-930",
-        "name": "Bansi_36",
+        "name": "Bansi_38",
         "url": "https://drive.google.com/thumbnail?id=1tkRUsqogqWfxXIF8ahBSbDl7tSTVGDIn&sz=w800",
         "date": "2026-05-08T19:06:18.700Z"
       },
       {
         "id": "1aq5PABi7yIKivKb87i9jw-MhsFw3s8QQ",
         "designNo": "DN-931",
-        "name": "Bansi_37",
+        "name": "Bansi_39",
         "url": "https://drive.google.com/thumbnail?id=1aq5PABi7yIKivKb87i9jw-MhsFw3s8QQ&sz=w800",
         "date": "2026-05-08T19:06:18.642Z"
       },
       {
         "id": "1OMUzT4R1xBG3vnSoaKBeI_Gk9LyGLwMb",
         "designNo": "DN-932",
-        "name": "Bansi_38",
+        "name": "Bansi_40",
         "url": "https://drive.google.com/thumbnail?id=1OMUzT4R1xBG3vnSoaKBeI_Gk9LyGLwMb&sz=w800",
         "date": "2026-05-08T19:06:18.553Z"
       },
       {
         "id": "1MaQbASRzU2mjT0QEGaQIAv7y99JDiD7X",
         "designNo": "DN-933",
-        "name": "Bansi_39",
+        "name": "Bansi_41",
         "url": "https://drive.google.com/thumbnail?id=1MaQbASRzU2mjT0QEGaQIAv7y99JDiD7X&sz=w800",
         "date": "2026-05-08T19:06:18.476Z"
       },
       {
         "id": "1FGS9jGDzTB1ro2ipDZH6nBXPF5G45RZL",
         "designNo": "DN-934",
-        "name": "Bansi_40",
+        "name": "Bansi_42",
         "url": "https://drive.google.com/thumbnail?id=1FGS9jGDzTB1ro2ipDZH6nBXPF5G45RZL&sz=w800",
         "date": "2026-05-08T19:06:18.409Z"
       },
       {
         "id": "19zwUDY099tqR1waqiyHJKyh-j_U5Cyek",
         "designNo": "DN-935",
-        "name": "Bansi_41",
+        "name": "Bansi_43",
         "url": "https://drive.google.com/thumbnail?id=19zwUDY099tqR1waqiyHJKyh-j_U5Cyek&sz=w800",
         "date": "2026-05-08T19:06:18.339Z"
       },
       {
         "id": "1fQQ27ugG3Y3XRdXWQzC6M7WvKK2od1c3",
         "designNo": "DN-936",
-        "name": "Bansi_42",
+        "name": "Bansi_44",
         "url": "https://drive.google.com/thumbnail?id=1fQQ27ugG3Y3XRdXWQzC6M7WvKK2od1c3&sz=w800",
         "date": "2026-05-08T19:06:18.272Z"
       },
       {
         "id": "1q36-4yxK7nA5rQ0SbKTk6uOaO8y68aaV",
         "designNo": "DN-937",
-        "name": "Bansi_43",
+        "name": "Bansi_45",
         "url": "https://drive.google.com/thumbnail?id=1q36-4yxK7nA5rQ0SbKTk6uOaO8y68aaV&sz=w800",
         "date": "2026-05-08T19:06:18.153Z"
       },
       {
         "id": "1VZYsVqSAebWNpevTp1HzJiLvoINz1PsQ",
         "designNo": "DN-938",
-        "name": "Bansi_44",
+        "name": "Bansi_46",
         "url": "https://drive.google.com/thumbnail?id=1VZYsVqSAebWNpevTp1HzJiLvoINz1PsQ&sz=w800",
         "date": "2026-05-08T19:06:18.050Z"
       },
       {
         "id": "1oP_xKXrZef3s3pGA3P1M9QyEktTsqBu9",
         "designNo": "DN-939",
-        "name": "Bansi_45",
+        "name": "Bansi_47",
         "url": "https://drive.google.com/thumbnail?id=1oP_xKXrZef3s3pGA3P1M9QyEktTsqBu9&sz=w800",
         "date": "2026-05-08T19:06:17.928Z"
       },
       {
         "id": "1IvITAIv1UXaJUOHJ1DZux-Zu-6lSD1tv",
         "designNo": "DN-940",
-        "name": "Bansi_46",
+        "name": "Bansi_48",
         "url": "https://drive.google.com/thumbnail?id=1IvITAIv1UXaJUOHJ1DZux-Zu-6lSD1tv&sz=w800",
         "date": "2026-05-08T19:06:17.812Z"
       },
       {
         "id": "1DbDR-acu3097fnZsxbhbsmfYT5cditvU",
         "designNo": "DN-941",
-        "name": "Bansi_47",
+        "name": "Bansi_49",
         "url": "https://drive.google.com/thumbnail?id=1DbDR-acu3097fnZsxbhbsmfYT5cditvU&sz=w800",
         "date": "2026-05-08T19:06:17.578Z"
       },
       {
         "id": "1kqcYRyj2Hqesfp-yTQAo64yFg9g8VzTd",
         "designNo": "DN-942",
-        "name": "Bansi_48",
+        "name": "Bansi_50",
         "url": "https://drive.google.com/thumbnail?id=1kqcYRyj2Hqesfp-yTQAo64yFg9g8VzTd&sz=w800",
         "date": "2026-05-08T18:57:32.592Z"
       },
       {
         "id": "1rr1ITmlQ3y7M_McfqRxw8CIP73llKI9X",
         "designNo": "DN-943",
-        "name": "Bansi_49",
+        "name": "Bansi_51",
         "url": "https://drive.google.com/thumbnail?id=1rr1ITmlQ3y7M_McfqRxw8CIP73llKI9X&sz=w800",
         "date": "2026-05-08T18:56:35.284Z"
       },
       {
         "id": "13W509mY1XUy-BKmJZoeSrB4djICS1uBY",
         "designNo": "DN-944",
-        "name": "Bansi_50",
+        "name": "Bansi_52",
         "url": "https://drive.google.com/thumbnail?id=13W509mY1XUy-BKmJZoeSrB4djICS1uBY&sz=w800",
         "date": "2026-05-08T18:56:36.270Z"
       },
       {
         "id": "1RgmsfJL-gpAk7r99G7Dg5wlh2q58AuBQ",
         "designNo": "DN-945",
-        "name": "Bansi_51",
+        "name": "Bansi_53",
         "url": "https://drive.google.com/thumbnail?id=1RgmsfJL-gpAk7r99G7Dg5wlh2q58AuBQ&sz=w800",
         "date": "2026-05-08T18:56:39.774Z"
       },
       {
         "id": "1hRphzU-Xq2bQeWUAcFuZPkMxB4bE9KV5",
         "designNo": "DN-946",
-        "name": "Bansi_52",
+        "name": "Bansi_54",
         "url": "https://drive.google.com/thumbnail?id=1hRphzU-Xq2bQeWUAcFuZPkMxB4bE9KV5&sz=w800",
         "date": "2026-05-08T18:56:50.742Z"
       },
       {
         "id": "1yS2ymxSOMEa23K_iI-zZbQ1sLVtunPS5",
         "designNo": "DN-947",
-        "name": "Bansi_53",
+        "name": "Bansi_55",
         "url": "https://drive.google.com/thumbnail?id=1yS2ymxSOMEa23K_iI-zZbQ1sLVtunPS5&sz=w800",
         "date": "2026-05-08T18:56:43.449Z"
       },
       {
         "id": "1zNcmhjiXBEd49t1fDY7-WMVqYM4yEFQp",
         "designNo": "DN-948",
-        "name": "Bansi_54",
+        "name": "Bansi_56",
         "url": "https://drive.google.com/thumbnail?id=1zNcmhjiXBEd49t1fDY7-WMVqYM4yEFQp&sz=w800",
         "date": "2026-05-08T18:56:54.279Z"
       }
