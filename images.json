@@ -2531,32 +2531,32 @@
     "category": "Payal",
     "images": [
       {
+        "id": "1rGScsdTxYIM2kz4YFeZLlJAW-m_PbTmL",
+        "designNo": "DN-999",
+        "name": "Payal_1",
+        "url": "https://drive.google.com/thumbnail?id=1rGScsdTxYIM2kz4YFeZLlJAW-m_PbTmL&sz=w800",
+        "date": "2026-07-01T08:48:50.670Z"
+      },
+      {
         "id": "1U5UAsT02Gxb63zx61nuRdZnmW_3hDx0u",
         "designNo": "DN-355",
-        "name": "Payal_1",
+        "name": "Payal_2",
         "url": "https://drive.google.com/thumbnail?id=1U5UAsT02Gxb63zx61nuRdZnmW_3hDx0u&sz=w800",
         "date": "2026-05-09T08:59:42.932Z"
       },
       {
         "id": "1jX1oCXtHivyD_l1gjEgCymMTwEpDipMF",
         "designNo": "DN-356",
-        "name": "Payal_2",
+        "name": "Payal_3",
         "url": "https://drive.google.com/thumbnail?id=1jX1oCXtHivyD_l1gjEgCymMTwEpDipMF&sz=w800",
         "date": "2026-05-09T08:59:42.717Z"
       },
       {
         "id": "1VHrXAExCjOLezyHhGS4OWbJ0OHOu6l7O",
         "designNo": "DN-357",
-        "name": "Payal_3",
+        "name": "Payal_4",
         "url": "https://drive.google.com/thumbnail?id=1VHrXAExCjOLezyHhGS4OWbJ0OHOu6l7O&sz=w800",
         "date": "2026-05-09T08:59:42.457Z"
-      },
-      {
-        "id": "1K9aC4QFVtgbV52hpJXyMtLuC2Fa2YBZK",
-        "designNo": "DN-358",
-        "name": "Payal_4",
-        "url": "https://drive.google.com/thumbnail?id=1K9aC4QFVtgbV52hpJXyMtLuC2Fa2YBZK&sz=w800",
-        "date": "2026-05-09T08:59:42.201Z"
       }
     ]
   },
