@@ -209,128 +209,156 @@
     "category": "Nath",
     "images": [
       {
-        "id": "1BB4piJaW5VVxsr2owX0JAC4mDLVil91o",
+        "id": "1Pb9_gYFy5rmq5dgUTThwM2gQ8KoOGhIs",
         "designNo": "DN-1050",
         "name": "Nath_1",
+        "url": "https://drive.google.com/thumbnail?id=1Pb9_gYFy5rmq5dgUTThwM2gQ8KoOGhIs&sz=w800",
+        "date": "2026-08-18T08:35:10.679Z"
+      },
+      {
+        "id": "1dGGefbXSuALrq49D5m2PdATkhv6iGIKG",
+        "designNo": "DN-1051",
+        "name": "Nath_2",
+        "url": "https://drive.google.com/thumbnail?id=1dGGefbXSuALrq49D5m2PdATkhv6iGIKG&sz=w800",
+        "date": "2026-08-18T08:35:10.585Z"
+      },
+      {
+        "id": "1yTEyA-lCzp0hqbpTRtbMC7WOnKSjZTma",
+        "designNo": "DN-1052",
+        "name": "Nath_3",
+        "url": "https://drive.google.com/thumbnail?id=1yTEyA-lCzp0hqbpTRtbMC7WOnKSjZTma&sz=w800",
+        "date": "2026-08-18T08:35:10.455Z"
+      },
+      {
+        "id": "1Ggjcc2C3bcWicQuy8B-JptCZQxM0rd9m",
+        "designNo": "DN-1053",
+        "name": "Nath_4",
+        "url": "https://drive.google.com/thumbnail?id=1Ggjcc2C3bcWicQuy8B-JptCZQxM0rd9m&sz=w800",
+        "date": "2026-08-18T08:35:10.238Z"
+      },
+      {
+        "id": "1BB4piJaW5VVxsr2owX0JAC4mDLVil91o",
+        "designNo": "DN-1054",
+        "name": "Nath_5",
         "url": "https://drive.google.com/thumbnail?id=1BB4piJaW5VVxsr2owX0JAC4mDLVil91o&sz=w800",
         "date": "2026-08-18T08:35:10.043Z"
       },
       {
         "id": "1vuiMBxPHJrBpWupVFoZkEiVD0QMAU8M7",
         "designNo": "DN-029",
-        "name": "Nath_2",
+        "name": "Nath_6",
         "url": "https://drive.google.com/thumbnail?id=1vuiMBxPHJrBpWupVFoZkEiVD0QMAU8M7&sz=w800",
         "date": "2026-05-10T12:06:19.946Z"
       },
       {
         "id": "14Pg9q16UaWgZ90_oSax_7QCtCLODEcuo",
         "designNo": "DN-030",
-        "name": "Nath_3",
+        "name": "Nath_7",
         "url": "https://drive.google.com/thumbnail?id=14Pg9q16UaWgZ90_oSax_7QCtCLODEcuo&sz=w800",
         "date": "2026-05-10T12:06:19.791Z"
       },
       {
         "id": "1pZ-BzkgcJwYBm9lPCLShTfC5PJG5gNxC",
         "designNo": "DN-031",
-        "name": "Nath_4",
+        "name": "Nath_8",
         "url": "https://drive.google.com/thumbnail?id=1pZ-BzkgcJwYBm9lPCLShTfC5PJG5gNxC&sz=w800",
         "date": "2026-05-10T12:06:19.679Z"
       },
       {
         "id": "1sGnRDzbHYxa3IjKxdRPpmYUXZfVPiYCG",
         "designNo": "DN-032",
-        "name": "Nath_5",
+        "name": "Nath_9",
         "url": "https://drive.google.com/thumbnail?id=1sGnRDzbHYxa3IjKxdRPpmYUXZfVPiYCG&sz=w800",
         "date": "2026-05-10T12:06:19.578Z"
       },
       {
         "id": "1s1fW2ap2lh0DmhwVyJeZ6KXxyBHVVJQt",
         "designNo": "DN-033",
-        "name": "Nath_6",
+        "name": "Nath_10",
         "url": "https://drive.google.com/thumbnail?id=1s1fW2ap2lh0DmhwVyJeZ6KXxyBHVVJQt&sz=w800",
         "date": "2026-05-10T12:06:19.432Z"
       },
       {
         "id": "1-VaRBcEhrn4VnEnTzEbOQOlxn4FwzGrp",
         "designNo": "DN-034",
-        "name": "Nath_7",
+        "name": "Nath_11",
         "url": "https://drive.google.com/thumbnail?id=1-VaRBcEhrn4VnEnTzEbOQOlxn4FwzGrp&sz=w800",
         "date": "2026-05-10T12:06:19.278Z"
       },
       {
         "id": "1nvu4RiSNoF5zGaf-pmpeQFFsaE0lVGEl",
         "designNo": "DN-035",
-        "name": "Nath_8",
+        "name": "Nath_12",
         "url": "https://drive.google.com/thumbnail?id=1nvu4RiSNoF5zGaf-pmpeQFFsaE0lVGEl&sz=w800",
         "date": "2026-05-10T12:06:19.172Z"
       },
       {
         "id": "17_n--ikGOMSqAuGXrb6WKJh_CEbKvMUG",
         "designNo": "DN-036",
-        "name": "Nath_9",
+        "name": "Nath_13",
         "url": "https://drive.google.com/thumbnail?id=17_n--ikGOMSqAuGXrb6WKJh_CEbKvMUG&sz=w800",
         "date": "2026-05-10T12:06:19.055Z"
       },
       {
         "id": "1F-Q3Wd7AOdn1RPxVR8chPCNSq8OF6Jv6",
         "designNo": "DN-037",
-        "name": "Nath_10",
+        "name": "Nath_14",
         "url": "https://drive.google.com/thumbnail?id=1F-Q3Wd7AOdn1RPxVR8chPCNSq8OF6Jv6&sz=w800",
         "date": "2026-05-10T12:06:18.939Z"
       },
       {
         "id": "1lTAjalbyvD3Jy_gVtNtxEk-Eh_kr9Sv_",
         "designNo": "DN-038",
-        "name": "Nath_11",
+        "name": "Nath_15",
         "url": "https://drive.google.com/thumbnail?id=1lTAjalbyvD3Jy_gVtNtxEk-Eh_kr9Sv_&sz=w800",
         "date": "2026-05-10T12:06:18.675Z"
       },
       {
         "id": "1KxKCXCnHfOeFG0cDLPeKgQxIPegK8Pvy",
         "designNo": "DN-039",
-        "name": "Nath_12",
+        "name": "Nath_16",
         "url": "https://drive.google.com/thumbnail?id=1KxKCXCnHfOeFG0cDLPeKgQxIPegK8Pvy&sz=w800",
         "date": "2026-05-10T12:06:18.459Z"
       },
       {
         "id": "1BSEF1jqKpXhN9gdU4OEVDzFCTFDXy0Sj",
         "designNo": "DN-040",
-        "name": "Nath_13",
+        "name": "Nath_17",
         "url": "https://drive.google.com/thumbnail?id=1BSEF1jqKpXhN9gdU4OEVDzFCTFDXy0Sj&sz=w800",
         "date": "2026-05-10T10:12:25.612Z"
       },
       {
         "id": "1I-r8th5lSPH-LC6Avxl4JXp21thxXhBF",
         "designNo": "DN-041",
-        "name": "Nath_14",
+        "name": "Nath_18",
         "url": "https://drive.google.com/thumbnail?id=1I-r8th5lSPH-LC6Avxl4JXp21thxXhBF&sz=w800",
         "date": "2026-05-10T10:12:25.473Z"
       },
       {
         "id": "1pjaqEsnnOryIovsNJTSHLNFZLmR572dm",
         "designNo": "DN-042",
-        "name": "Nath_15",
+        "name": "Nath_19",
         "url": "https://drive.google.com/thumbnail?id=1pjaqEsnnOryIovsNJTSHLNFZLmR572dm&sz=w800",
         "date": "2026-05-10T10:12:25.342Z"
       },
       {
         "id": "17Fi0OYSrK9a4OsEr5JPLbrFHhS4yzihd",
         "designNo": "DN-043",
-        "name": "Nath_16",
+        "name": "Nath_20",
         "url": "https://drive.google.com/thumbnail?id=17Fi0OYSrK9a4OsEr5JPLbrFHhS4yzihd&sz=w800",
         "date": "2026-05-10T10:12:25.145Z"
       },
       {
         "id": "1Z97Bf76jesUQMpz8cERRORLLabgN8ocv",
         "designNo": "DN-044",
-        "name": "Nath_17",
+        "name": "Nath_21",
         "url": "https://drive.google.com/thumbnail?id=1Z97Bf76jesUQMpz8cERRORLLabgN8ocv&sz=w800",
         "date": "2026-05-10T10:12:24.884Z"
       },
       {
         "id": "1NMe1W8UfKco8D6E6d15UJG7U77epdVsP",
         "designNo": "DN-045",
-        "name": "Nath_18",
+        "name": "Nath_22",
         "url": "https://drive.google.com/thumbnail?id=1NMe1W8UfKco8D6E6d15UJG7U77epdVsP&sz=w800",
         "date": "2026-05-10T10:12:24.703Z"
       }
@@ -6928,21 +6956,21 @@
     "images": [
       {
         "id": "19E3ok_V9m0hcGIAGaceCRnHjrfdaLkvv",
-        "designNo": "DN-1051",
+        "designNo": "DN-1055",
         "name": "Bansi_1",
         "url": "https://drive.google.com/thumbnail?id=19E3ok_V9m0hcGIAGaceCRnHjrfdaLkvv&sz=w800",
         "date": "2026-08-18T08:36:11.168Z"
       },
       {
         "id": "1lO9IIKRxZWuKLz2B32vHVZyUsWsD2oHC",
-        "designNo": "DN-1052",
+        "designNo": "DN-1056",
         "name": "Bansi_2",
         "url": "https://drive.google.com/thumbnail?id=1lO9IIKRxZWuKLz2B32vHVZyUsWsD2oHC&sz=w800",
         "date": "2026-08-18T08:36:10.884Z"
       },
       {
         "id": "1umh9YiJ-OQBSFMjZpp3OtpGGWfE9q6nN",
-        "designNo": "DN-1053",
+        "designNo": "DN-1057",
         "name": "Bansi_3",
         "url": "https://drive.google.com/thumbnail?id=1umh9YiJ-OQBSFMjZpp3OtpGGWfE9q6nN&sz=w800",
         "date": "2026-08-18T08:36:10.356Z"
